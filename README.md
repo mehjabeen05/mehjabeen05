@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-based projects and Full Stack Web Development using the MERN Stack.<br><br>👯 I’m looking to collaborate on Open Source projects related to Web Development, AI/ML, and React applications.<br><br>🤝 I’m looking for help with improving scalable backend systems and advanced machine learning models.<br><br>🌱 I’m currently learning Cloud Computing (AWS), Advanced React, and Machine Learning.<br><br>💬 Ask me about MERN Stack Development, REST APIs, React.js, Node.js, and Python project
+🔭 I’m currently working on AI-ML based projects and Full Stack Web Development using the MERN Stack.<br><br>👯 I’m looking to collaborate on Open Source projects related to Web Development, AI/ML, and React applications.<br><br>🤝 I’m looking for help with improving scalable backend systems and advanced machine learning models.<br><br>🌱 I’m currently learning Cloud Computing (AWS), Advanced React, and Machine Learning.<br><br>💬 Ask me about MERN Stack Development, REST APIs, React.js, Node.js, and Python project
 
 
 ## 🌐 Socials:
